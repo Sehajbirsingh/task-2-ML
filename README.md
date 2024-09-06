@@ -35,11 +35,15 @@ This repository contains the work for Task 2, which involves handling branches i
      ```
 
 6. **Managed Pull Requests**:
-   - Created a pull request to review changes but chose not to merge them, keeping branches separate.
+   - Created a pull request to review changes and set up a reviewer.
+   - The pull request was reviewed and merged, keeping branches separate.
 
 ## Branch Management
 
 - **Switching Between Branches**:
   To switch between branches:
+  ```bash
+  git checkout branch_name
+
   ```bash
   git checkout branch_name
